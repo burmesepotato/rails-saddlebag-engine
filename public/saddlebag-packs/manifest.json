@@ -1,0 +1,14 @@
+{
+  "application.js": "/saddlebag-packs/js/application-12ff0636dada5ef09f5b.js",
+  "application.js.map": "/saddlebag-packs/js/application-12ff0636dada5ef09f5b.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/saddlebag-packs/js/application-12ff0636dada5ef09f5b.js"
+      ],
+      "js.map": [
+        "/saddlebag-packs/js/application-12ff0636dada5ef09f5b.js.map"
+      ]
+    }
+  }
+}
