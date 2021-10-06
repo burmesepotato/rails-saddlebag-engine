@@ -1,5 +1,7 @@
 # Saddlebag
-Short description and motivation.
+[Rails Engines using Webpacker](http://ben.vandgrift.com/posts/rails-engine-webpacker-1/)
+
+[Using Rails Engine](https://gist.github.com/pioz/805d0887ebfdde6322c4db4b46b0120f)
 
 ## Usage
 How to use my plugin.
